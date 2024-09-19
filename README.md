@@ -47,5 +47,6 @@ Vorbose mode
 pytest -v . 
 ```
 Should see something similar like this
-![image](https://github.com/user-attachments/assets/e1fcab42-987d-4890-8312-4373b59a69c9)
+![image](https://github.com/user-attachments/assets/182ff611-3ce8-4cfc-84b9-13c2235492f7)
+
 
