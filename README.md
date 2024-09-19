@@ -28,7 +28,7 @@ Install dependencies
 ```
 pip install -r requirements.txt
 ```
-Execute the script to generete the figure and replace <height> with the number of rows you want.
+Execute the script to generete the figure and replace height with the number of rows you want.
 ```
 python draw_tree.py --height <height>
 ```
